@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![описание картинки](images/img1.jpg)
+![описание картинки](images/img2.jpg)
+
 <!--
 **crusmos/crusmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
